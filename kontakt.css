@@ -1,0 +1,46 @@
+body {
+  background-image: url('wallpaperflare.com_wallpaper.jpg');
+}
+
+nav ul{
+  float: right;
+  list-style-type: none;
+}
+
+nav ul li{
+  display: inline-block;
+
+}
+
+nav a {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  padding: 5px 20px;
+  margin: 5px;
+  border: 2px solid whitesmoke;
+}
+
+h1{
+  font-size: 60px;
+  position: absolute;
+  top: opx;
+  left: 40%;
+}
+
+nav ul li a:hover {
+  background-color: tomato;
+  color: white;
+}
+
+.HELP img{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.logo{
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}

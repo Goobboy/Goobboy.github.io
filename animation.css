@@ -1,0 +1,14 @@
+body{
+	animation: bloom 1s;
+}
+
+
+@keyframes bloom {
+	from{
+		opacity: 0;
+	}
+
+	to{
+		opacity: 1;
+	}
+}

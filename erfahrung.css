@@ -1,0 +1,61 @@
+body {
+  background-image: url('wallpaperflare.com_wallpaper.jpg');
+  margin-left: 15px;
+}
+
+nav ul{
+  float: right;
+  list-style-type: none;
+}
+
+nav ul li{
+  display: inline-block;
+
+}
+
+nav a {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  padding: 5px 20px;
+  margin: 5px;
+  border: 2px solid whitesmoke;
+}
+h1{
+  font-size: 60px;
+  position: absolute;
+  top: 0px;
+  left: 40%;
+
+}
+
+nav ul li a:hover {
+  background-color: tomato;
+  color: white;
+}
+
+.HELP img{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.logo{
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
+
+.Vorsichtig img{
+  margin-top:40px;
+  margin-left: 30%;
+}
+
+h2{
+  position: absolute;
+  top: 30%;
+  left: 28%;
+  font-size: 6rem;
+  color: red;
+  text-shadow: 0px 0px 15px darkred;
+}
